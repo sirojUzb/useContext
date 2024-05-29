@@ -1,0 +1,5 @@
+//GLOBAL state management 
+//useContext - reactning "native framework"i hisoblanadi
+//redux -> third party package
+//Zustand -> third party package
+//Facebookni => created recoil state management
