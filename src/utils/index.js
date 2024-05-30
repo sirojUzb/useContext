@@ -1,7 +1,7 @@
 export const movies = [
   {
     title: "Avatar",
-    year: 2000,
+    year: 2009,
     rating: 7.8,
     genre: "Action",
     id: 1,
