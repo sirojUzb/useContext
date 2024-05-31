@@ -1,6 +1,6 @@
 import { Button } from "antd";
 import { useContext } from "react";
-import MovieContext from "../../../context/movieContext";
+import { MovieContext } from "../../../context/movieContext";
 
 const Footer = ({ id }) => {
   const [movies, setMovies] = useContext(MovieContext);

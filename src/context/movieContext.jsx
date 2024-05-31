@@ -1,4 +1,4 @@
-import { createContext } from "react";
+import { createContext, useState } from "react";
 import { movies as mock_movies } from "../utils";
 
 export const MovieContext = createContext(null);
