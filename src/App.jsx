@@ -14,5 +14,5 @@ function App() {
 }
 
 export default App;
-// CRUD-React component based
+// create CRUD-React component based
 // find what's wrong your codes
